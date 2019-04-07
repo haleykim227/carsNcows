@@ -12,6 +12,7 @@ class cowculateViewController: UIViewController {
 
     var selected: String!
     var CO2emissions: Double!
+    var gasMileage: Double!
     var cows: Double!
     
     @IBOutlet weak var backButton: UIButton!
@@ -26,71 +27,110 @@ class cowculateViewController: UIViewController {
         switch selected {
         case "ACURA":
             CO2emissions = 145.932
+            gasMileage = 25
         case "ALFA ROMEO":
             CO2emissions = 115.961
+            gasMileage = 26
         case "AUDI":
             CO2emissions = 124.968
-        case "BENTLEY",
-             "PORSCHE",
-             "VOLKSWAGEN":
+            gasMileage = 26
+        case "BENTLEY":
             CO2emissions = 118.551
+            gasMileage = 13
+        case "PORSCHE":
+            CO2emissions = 118.551
+            gasMileage = 22
+        case "VOLKSWAGEN":
+            CO2emissions = 118.551
+            gasMileage = 28
         case "BMW",
-             "MINI",
-             "ROLLS-ROYCE":
+             "MINI":
             CO2emissions = 129.25
-        case "BUICK",
-             "CADILLAC",
+            gasMileage = 25
+        case "ROLLS-ROYCE":
+            CO2emissions = 129.25
+            gasMileage = 14
+        case "BUICK":
+            CO2emissions = 124.19
+            gasMileage = 25
+        case "CADILLAC",
              "CHEVROLET",
-             "GMC",
              "PONTIAC",
+             "GMC",
              "SATURN":
             CO2emissions = 124.19
+            gasMileage = 21
         case "DODGE",
-             "FIAT",
              "RAM":
             CO2emissions = 115.961
-        case "FORD",
-             "LINCOLN",
+            gasMileage = 19
+        case "FIAT":
+            CO2emissions = 115.961
+            gasMileage = 27
+        case "FORD":
+            CO2emissions = 118.435
+            gasMileage = 23
+        case "LINCOLN",
              "MERCURY":
             CO2emissions = 118.435
-        case "GENESIS",
-             "KIA",
+            gasMileage = 19
+        case "GENESIS":
+            CO2emissions = 121.01
+            gasMileage = 20
+        case "KIA",
              "HYUNDAI":
             CO2emissions = 121.01
+            gasMileage = 27
         case "HONDA":
             CO2emissions = 133.387
+            gasMileage = 30
         case "INFINITI":
             CO2emissions = 116.666
+            gasMileage = 23
         case "LAND ROVER",
              "JAGUAR":
             CO2emissions = 149.841
+            gasMileage = 21
         case "CHRYSLER",
-             "JEEP",
-             "MASERATI":
+             "JEEP":
             CO2emissions = 146.673
+            gasMileage = 22
+        case "MASERATI":
+            CO2emissions = 146.673
+            gasMileage = 18
+        case "TOYOTA",
+             "SCION":
+            CO2emissions = 105.447
+            gasMileage = 32
         case "LEXUS",
-             "TOYOTA",
-             "SCION",
              "SUBARU":
             CO2emissions = 105.447
+            gasMileage = 26
         case "MAZDA":
             CO2emissions = 126.74
+            gasMileage = 30
         case "MERCEDES-BENZ":
             CO2emissions = 125.012
+            gasMileage = 20
         case "MITSUBISHI",
              "NISSAN":
             CO2emissions = 132.13
+            gasMileage = 27
         case "SUZUKI":
             CO2emissions = 120.61
+            gasMileage = 21
         case "LOTUS",
              "POLESTAR",
              "VOLVO":
             CO2emissions = 121.166
+            gasMileage = 26
         case "TESLA",
              "SMART":
             CO2emissions = 0
+            gasMileage = 0
         default:
             CO2emissions = -1
+            gasMileage = -1
         }
         
 //        let x = 1.23556789
