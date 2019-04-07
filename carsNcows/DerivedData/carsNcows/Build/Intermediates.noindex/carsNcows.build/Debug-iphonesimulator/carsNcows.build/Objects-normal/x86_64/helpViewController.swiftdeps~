@@ -8,7 +8,7 @@ provides-member:
 provides-dynamic-lookup:
 - "viewDidLoad"
 depends-top-level:
-- "ViewController"
+- "UIViewController"
 - "helpViewController"
 depends-member:
 - ["s7CVarArgP", ""]
@@ -49,12 +49,6 @@ depends-member:
 - ["So30UIPasteConfigurationSupportingP", ""]
 - !private ["So30UIPasteConfigurationSupportingP", "init"]
 - !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
-- ["So22UIPickerViewDataSourceP", ""]
-- !private ["So22UIPickerViewDataSourceP", "init"]
-- !private ["So22UIPickerViewDataSourceP", "viewDidLoad"]
-- ["So20UIPickerViewDelegateP", ""]
-- !private ["So20UIPickerViewDelegateP", "init"]
-- !private ["So20UIPickerViewDelegateP", "viewDidLoad"]
 - ["So11UIResponderC", "init"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", ""]
@@ -69,12 +63,9 @@ depends-member:
 - ["So23UIUserActivityRestoringP", ""]
 - !private ["So23UIUserActivityRestoringP", "init"]
 - !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "init"]
 - ["So16UIViewControllerC", "viewDidLoad"]
-- ["9carsNcows14ViewControllerC", ""]
-- !private ["9carsNcows14ViewControllerC", "deinit"]
-- ["9carsNcows14ViewControllerC", "init"]
-- ["9carsNcows14ViewControllerC", "viewDidLoad"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
@@ -95,15 +86,12 @@ depends-nominal:
 - "So18UIContentContainerP"
 - "So18UIFocusEnvironmentP"
 - "So30UIPasteConfigurationSupportingP"
-- "So22UIPickerViewDataSourceP"
-- "So20UIPickerViewDelegateP"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
 - "So16UIStateRestoringP"
 - "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"
 - "So16UIViewControllerC"
-- "9carsNcows14ViewControllerC"
 - "10Foundation27_KeyValueCodingAndObservingP"
 - "9carsNcows18helpViewControllerC"
 depends-dynamic-lookup:
@@ -132,4 +120,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5e67be0c38b1eab457ca1319aeadae3a"
+interface-hash: "f23ecf623506cd4b6838cd238d4ea899"

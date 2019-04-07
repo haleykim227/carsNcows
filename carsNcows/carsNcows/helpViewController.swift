@@ -10,10 +10,14 @@ import UIKit
 
 class helpViewController: UIViewController {
 
+    @IBOutlet weak var backButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        backButton.layer.cornerRadius = 7
     }
     
 

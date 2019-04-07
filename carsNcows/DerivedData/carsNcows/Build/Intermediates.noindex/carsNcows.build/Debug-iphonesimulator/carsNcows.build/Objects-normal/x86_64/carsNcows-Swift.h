@@ -231,6 +231,7 @@ SWIFT_CLASS("_TtC9carsNcows23cowculateViewController")
 
 SWIFT_CLASS("_TtC9carsNcows18helpViewController")
 @interface helpViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified backButton;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
