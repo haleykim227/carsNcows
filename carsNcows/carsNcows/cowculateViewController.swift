@@ -84,7 +84,8 @@ class cowculateViewController: UIViewController {
              "POLESTAR",
              "VOLVO":
             CO2emissions = 121.166
-        case "TESLA":
+        case "TESLA",
+             "SMART":
             CO2emissions = 0
         default:
             CO2emissions = -1
