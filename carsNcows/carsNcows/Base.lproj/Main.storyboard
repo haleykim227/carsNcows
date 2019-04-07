@@ -51,7 +51,7 @@
                                     </attributedString>
                                 </state>
                                 <connections>
-                                    <segue destination="Wvk-M8-VsM" kind="presentation" id="wi4-CU-8D0"/>
+                                    <segue destination="Wvk-M8-VsM" kind="show" identifier="helpSegue" id="Xbh-bj-xaP"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="FCi-B3-ZCx">
@@ -70,7 +70,7 @@
                                     </attributedString>
                                 </state>
                                 <connections>
-                                    <segue destination="FBC-gS-ZeZ" kind="show" id="QiS-nu-x5D"/>
+                                    <segue destination="FBC-gS-ZeZ" kind="show" identifier="cowculateSegue" id="QiS-nu-x5D"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -87,10 +87,10 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="129.91071428571428"/>
         </scene>
-        <!--View Controller-->
+        <!--Help View Controller-->
         <scene sceneID="t1f-1R-63H">
             <objects>
-                <viewController id="Wvk-M8-VsM" sceneMemberID="viewController">
+                <viewController id="Wvk-M8-VsM" customClass="helpViewController" customModule="carsNcows" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ClY-bo-uXT">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

@@ -34,8 +34,10 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        let vc = segue.destination as! cowculateViewController
-        vc.selected = valueSelected
+        if (segue.identifier == "cowculateSegue"){
+            let vc = segue.destination as! cowculateViewController
+            vc.selected = valueSelected
+        }
     }
     
     func numberOfComponents(in pickerView: UIPickerView) -> Int {

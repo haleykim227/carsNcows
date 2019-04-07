@@ -11,12 +11,12 @@ import UIKit
 class cowculateViewController: UIViewController {
 
     var selected: String!
+    var CO2emissions: Double!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         print("CowCalculate says:", selected)
-        
     }
 
     

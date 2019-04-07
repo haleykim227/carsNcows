@@ -8,6 +8,7 @@ provides-member:
 provides-dynamic-lookup:
 - "viewDidLoad"
 depends-top-level:
+- "Double"
 - "String"
 - !private "StringLiteralType"
 - "UIViewController"
@@ -49,6 +50,8 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "print"]
 - !private ["So26NSExtensionRequestHandlingP", "selected"]
 - !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "CO2emissions"]
+- ["So8NSObjectC", "Double"]
 - ["So8NSObjectC", "String"]
 - ["So8NSObjectC", "init"]
 - !private ["So8NSObjectC", "print"]
@@ -79,6 +82,8 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "print"]
 - !private ["So30UIPasteConfigurationSupportingP", "selected"]
 - !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "CO2emissions"]
+- ["So11UIResponderC", "Double"]
 - ["So11UIResponderC", "String"]
 - ["So11UIResponderC", "init"]
 - !private ["So11UIResponderC", "print"]
@@ -104,6 +109,8 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "print"]
 - !private ["So23UIUserActivityRestoringP", "selected"]
 - !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So16UIViewControllerC", "CO2emissions"]
+- ["So16UIViewControllerC", "Double"]
 - ["So16UIViewControllerC", "String"]
 - ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "init"]
@@ -115,6 +122,8 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "selected"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["9carsNcows23cowculateViewControllerC", "CO2emissions"]
+- ["9carsNcows23cowculateViewControllerC", "Double"]
 - ["9carsNcows23cowculateViewControllerC", "String"]
 - ["9carsNcows23cowculateViewControllerC", "deinit"]
 - ["9carsNcows23cowculateViewControllerC", "init"]
@@ -169,4 +178,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "37ffd4473b005c1e5f6b3cf16c10b762"
+interface-hash: "80abe39ef1768278bf5798c1e6ad56cd"

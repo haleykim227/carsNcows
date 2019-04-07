@@ -14,6 +14,7 @@ provides-dynamic-lookup:
 - "prepare"
 - "viewDidLoad"
 depends-top-level:
+- !private "=="
 - "AssignmentPrecedence"
 - "CastingPrecedence"
 - !private "FloatLiteralType"
@@ -47,6 +48,7 @@ depends-member:
 - !private ["s7CVarArgP", "delegate"]
 - !private ["s7CVarArgP", "destination"]
 - !private ["s7CVarArgP", "helpButton"]
+- !private ["s7CVarArgP", "identifier"]
 - !private ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "layer"]
 - !private ["s7CVarArgP", "makers"]
@@ -70,6 +72,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "delegate"]
 - !private ["s28CustomDebugStringConvertibleP", "destination"]
 - !private ["s28CustomDebugStringConvertibleP", "helpButton"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "layer"]
 - !private ["s28CustomDebugStringConvertibleP", "makers"]
@@ -94,6 +97,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "delegate"]
 - !private ["s23CustomStringConvertibleP", "destination"]
 - !private ["s23CustomStringConvertibleP", "helpButton"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "layer"]
 - !private ["s23CustomStringConvertibleP", "makers"]
@@ -125,6 +129,7 @@ depends-member:
 - !private ["SQ", "delegate"]
 - !private ["SQ", "destination"]
 - !private ["SQ", "helpButton"]
+- !private ["SQ", "identifier"]
 - !private ["SQ", "init"]
 - !private ["SQ", "layer"]
 - !private ["SQ", "makers"]
@@ -149,6 +154,7 @@ depends-member:
 - !private ["SH", "delegate"]
 - !private ["SH", "destination"]
 - !private ["SH", "helpButton"]
+- !private ["SH", "identifier"]
 - !private ["SH", "init"]
 - !private ["SH", "layer"]
 - !private ["SH", "makers"]
@@ -204,6 +210,7 @@ depends-member:
 - !private ["So8NSObjectC", "delegate"]
 - !private ["So8NSObjectC", "destination"]
 - ["So8NSObjectC", "helpButton"]
+- !private ["So8NSObjectC", "identifier"]
 - ["So8NSObjectC", "init"]
 - !private ["So8NSObjectC", "layer"]
 - ["So8NSObjectC", "makers"]
@@ -222,6 +229,7 @@ depends-member:
 - !private ["So8NSObjectP", "delegate"]
 - !private ["So8NSObjectP", "destination"]
 - !private ["So8NSObjectP", "helpButton"]
+- !private ["So8NSObjectP", "identifier"]
 - !private ["So8NSObjectP", "init"]
 - !private ["So8NSObjectP", "layer"]
 - !private ["So8NSObjectP", "makers"]
@@ -390,6 +398,7 @@ depends-member:
 - !private ["So16UIStateRestoringP", "valueSelected"]
 - !private ["So16UIStateRestoringP", "viewDidLoad"]
 - !private ["So17UIStoryboardSegueC", "destination"]
+- !private ["So17UIStoryboardSegueC", "identifier"]
 - ["So18UITraitEnvironmentP", ""]
 - !private ["So18UITraitEnvironmentP", "cowculateButton"]
 - !private ["So18UITraitEnvironmentP", "dataSource"]
@@ -475,6 +484,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "helpButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "identifier"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "makers"]
