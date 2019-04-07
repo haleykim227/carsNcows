@@ -6,134 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>048EC107-D10D-49E9-A67B-324E8EFF25DA</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>048EC107-D10D-49E9-A67B-324E8EFF25DA.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576324241.87265205</real>
-			<key>timeStoppedRecording</key>
-			<real>576324259.61010897</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>048EC107-D10D-49E9-A67B-324E8EFF25DA</string>
-		</dict>
-		<key>0FE4F20E-699F-45DF-9604-94F09E07BEA9</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>0FE4F20E-699F-45DF-9604-94F09E07BEA9.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576326351.88201797</real>
-			<key>timeStoppedRecording</key>
-			<real>576326487.279724</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>0FE4F20E-699F-45DF-9604-94F09E07BEA9</string>
-		</dict>
-		<key>1815A5E8-69F7-4422-933A-02D45A7358EF</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>1815A5E8-69F7-4422-933A-02D45A7358EF.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576323508.38258195</real>
-			<key>timeStoppedRecording</key>
-			<real>576323555.15328801</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>1815A5E8-69F7-4422-933A-02D45A7358EF</string>
-		</dict>
-		<key>216FFE0A-2681-4415-A69D-880E666610F7</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>216FFE0A-2681-4415-A69D-880E666610F7.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576324261.02486801</real>
-			<key>timeStoppedRecording</key>
-			<real>576326140.18465996</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>216FFE0A-2681-4415-A69D-880E666610F7</string>
-		</dict>
 		<key>4AC31C90-68AB-41CA-AFAD-994B9F804191</key>
 		<dict>
 			<key>className</key>
@@ -166,7 +38,7 @@
 			<key>uniqueIdentifier</key>
 			<string>4AC31C90-68AB-41CA-AFAD-994B9F804191</string>
 		</dict>
-		<key>4C79715B-B1F4-41B1-ABDD-85DB138ADDD6</key>
+		<key>5FC3DC2C-0CA0-42F6-8AC0-4D98698DACCA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -175,7 +47,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4C79715B-B1F4-41B1-ABDD-85DB138ADDD6.xcactivitylog</string>
+			<string>5FC3DC2C-0CA0-42F6-8AC0-4D98698DACCA.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -190,15 +62,15 @@
 			<key>signature</key>
 			<string>Debug carsNcows</string>
 			<key>timeStartedRecording</key>
-			<real>576323645.94888198</real>
+			<real>576352804.34513903</real>
 			<key>timeStoppedRecording</key>
-			<real>576323903.527156</real>
+			<real>576352833.52583599</real>
 			<key>title</key>
 			<string>Debug carsNcows</string>
 			<key>uniqueIdentifier</key>
-			<string>4C79715B-B1F4-41B1-ABDD-85DB138ADDD6</string>
+			<string>5FC3DC2C-0CA0-42F6-8AC0-4D98698DACCA</string>
 		</dict>
-		<key>5B9ABBCA-EF26-46BB-908E-8B02FA9F17FE</key>
+		<key>BC777F7C-E67D-43B7-8C58-2EA81ADC8449</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -207,7 +79,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>5B9ABBCA-EF26-46BB-908E-8B02FA9F17FE.xcactivitylog</string>
+			<string>BC777F7C-E67D-43B7-8C58-2EA81ADC8449.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -222,205 +94,13 @@
 			<key>signature</key>
 			<string>Debug carsNcows</string>
 			<key>timeStartedRecording</key>
-			<real>576326323.45043695</real>
+			<real>576352742.31980395</real>
 			<key>timeStoppedRecording</key>
-			<real>576326341.65910995</real>
+			<real>576352803.51614594</real>
 			<key>title</key>
 			<string>Debug carsNcows</string>
 			<key>uniqueIdentifier</key>
-			<string>5B9ABBCA-EF26-46BB-908E-8B02FA9F17FE</string>
-		</dict>
-		<key>5FA49C44-4122-441B-8148-7FC44ABE4EB7</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>5FA49C44-4122-441B-8148-7FC44ABE4EB7.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576323556.57618701</real>
-			<key>timeStoppedRecording</key>
-			<real>576323644.44946504</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>5FA49C44-4122-441B-8148-7FC44ABE4EB7</string>
-		</dict>
-		<key>90F7CBEE-51EF-4234-9DBC-4034C6354E6F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>90F7CBEE-51EF-4234-9DBC-4034C6354E6F.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576319731.61402702</real>
-			<key>timeStoppedRecording</key>
-			<real>576319743.67625296</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>90F7CBEE-51EF-4234-9DBC-4034C6354E6F</string>
-		</dict>
-		<key>9841AF6C-A9B8-40A0-9627-3A7796927588</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>9841AF6C-A9B8-40A0-9627-3A7796927588.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576321704.32068598</real>
-			<key>timeStoppedRecording</key>
-			<real>576323502.60075498</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>9841AF6C-A9B8-40A0-9627-3A7796927588</string>
-		</dict>
-		<key>9F3A282D-EAA4-4D1A-9323-79AFBB0E6314</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>9F3A282D-EAA4-4D1A-9323-79AFBB0E6314.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576326543.96189797</real>
-			<key>timeStoppedRecording</key>
-			<real>576326557.39928102</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>9F3A282D-EAA4-4D1A-9323-79AFBB0E6314</string>
-		</dict>
-		<key>A13E65BD-242F-4553-A5EB-6015AE72B09F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A13E65BD-242F-4553-A5EB-6015AE72B09F.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576326155.18459904</real>
-			<key>timeStoppedRecording</key>
-			<real>576326166.47393298</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>A13E65BD-242F-4553-A5EB-6015AE72B09F</string>
-		</dict>
-		<key>D7C72E58-D99A-4EFF-8246-AD32BE93CB24</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D7C72E58-D99A-4EFF-8246-AD32BE93CB24.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576323919.45481396</real>
-			<key>timeStoppedRecording</key>
-			<real>576324240.45487106</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>D7C72E58-D99A-4EFF-8246-AD32BE93CB24</string>
+			<string>BC777F7C-E67D-43B7-8C58-2EA81ADC8449</string>
 		</dict>
 	</dict>
 </dict>
