@@ -13,10 +13,14 @@ class cowculateViewController: UIViewController {
     var selected: String!
     var CO2emissions: Double!
     
+    @IBOutlet weak var backButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         print("CowCalculate says:", selected)
+        
+        backButton.layer.cornerRadius = 7
     }
 
     
