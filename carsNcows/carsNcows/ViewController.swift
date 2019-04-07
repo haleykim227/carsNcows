@@ -14,7 +14,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBOutlet weak var helpButton: UIButton!
     @IBOutlet weak var pickMaker: UIPickerView!
     
-    let makers = ["", "ACURA", "ALFA ROMEO", "AUDI", "BENTLEY", "BUICK", "CADILLAC", "CHEVROLET", "CHRYSLER", "DODGE", "FIAT", "FORD", "GMC", "GENESIS", "HONDA", "INFINITI", "JAGUAR", "JEEP", "KIA", "LAND ROVER", "LEXUS", "LINCOLN", "LOTUS", "MASERATI", "MAZDA", "MERCEDES-BENZ", "MERCURY", "MINI", "MITSUBISHI", "NISSAN", "POLESTAR", "PONTIAC", "PORSCHE", "RAM", "ROLLS-ROYCE", "SAAB", "SATURN", "SCION", "SMART", "SUBARU", "SUZUKI", "TESLA", "TOYOTA", "VOLKSWAGEN", "VOLVO"]
+    let makers = ["", "ACURA", "ALFA ROMEO", "AUDI", "BENTLEY", "BMW", "BUICK", "CADILLAC", "CHEVROLET", "CHRYSLER", "DODGE", "FIAT", "FORD", "GMC", "GENESIS", "HONDA", "HYUNDAI", "INFINITI", "JAGUAR", "JEEP", "KIA", "LAND ROVER", "LEXUS", "LINCOLN", "LOTUS", "MASERATI", "MAZDA", "MERCEDES-BENZ", "MERCURY", "MINI", "MITSUBISHI", "NISSAN", "POLESTAR", "PONTIAC", "PORSCHE", "RAM", "ROLLS-ROYCE", "SATURN", "SCION", "SMART", "SUBARU", "SUZUKI", "TESLA", "TOYOTA", "VOLKSWAGEN", "VOLVO"]
     
     var valueSelected: String!
     

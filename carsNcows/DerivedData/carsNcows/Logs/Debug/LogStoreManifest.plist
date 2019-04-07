@@ -102,6 +102,38 @@
 			<key>uniqueIdentifier</key>
 			<string>6317BB40-45E6-4252-BF7B-7E86EC5F6A34</string>
 		</dict>
+		<key>6DF4F6E1-CEEB-4BA7-A067-FF858CA5ED30</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6DF4F6E1-CEEB-4BA7-A067-FF858CA5ED30.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576316933.87682199</real>
+			<key>timeStoppedRecording</key>
+			<real>576317668.72302496</real>
+			<key>title</key>
+			<string>Debug carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>6DF4F6E1-CEEB-4BA7-A067-FF858CA5ED30</string>
+		</dict>
 		<key>973D0530-629E-421D-AA76-C90A4FCF8A3B</key>
 		<dict>
 			<key>className</key>
