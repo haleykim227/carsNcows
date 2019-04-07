@@ -6,94 +6,380 @@ provides-nominal:
 provides-member:
 - ["9carsNcows14ViewControllerC", ""]
 provides-dynamic-lookup:
+- "numberOfComponents"
+- "pickMaker"
+- "pickerView"
 - "viewDidLoad"
 depends-top-level:
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "UIPickerView"
+- "UIPickerViewDataSource"
+- "UIPickerViewDelegate"
 - "UIViewController"
 - "ViewController"
 depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "count"]
+- !private ["SK", "subscript"]
+- !private ["So15CALayerDelegateP", "dataSource"]
+- !private ["So15CALayerDelegateP", "delegate"]
 - ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dataSource"]
+- !private ["s7CVarArgP", "delegate"]
 - !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "makers"]
+- ["s7CVarArgP", "numberOfComponents"]
+- ["s7CVarArgP", "numberOfComponentsInPickerView"]
+- !private ["s7CVarArgP", "pickMaker"]
+- ["s7CVarArgP", "pickerView"]
+- !private ["s7CVarArgP", "subscript"]
 - !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "count"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
 - ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dataSource"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "makers"]
+- ["s28CustomDebugStringConvertibleP", "numberOfComponents"]
+- ["s28CustomDebugStringConvertibleP", "numberOfComponentsInPickerView"]
+- !private ["s28CustomDebugStringConvertibleP", "pickMaker"]
+- ["s28CustomDebugStringConvertibleP", "pickerView"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
 - !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "dataSource"]
+- !private ["s17CustomReflectableP", "delegate"]
+- !private ["s17CustomReflectableP", "subscript"]
 - ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dataSource"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
 - !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "makers"]
+- ["s23CustomStringConvertibleP", "numberOfComponents"]
+- ["s23CustomStringConvertibleP", "numberOfComponentsInPickerView"]
+- !private ["s23CustomStringConvertibleP", "pickMaker"]
+- ["s23CustomStringConvertibleP", "pickerView"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
 - !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "count"]
+- !private ["Se", "dataSource"]
+- !private ["Se", "delegate"]
+- !private ["Se", "subscript"]
+- !private ["SE", "count"]
+- !private ["SE", "dataSource"]
+- !private ["SE", "delegate"]
+- !private ["SE", "subscript"]
 - ["SQ", ""]
+- !private ["SQ", "count"]
+- !private ["SQ", "dataSource"]
+- !private ["SQ", "delegate"]
 - !private ["SQ", "init"]
+- !private ["SQ", "makers"]
+- ["SQ", "numberOfComponents"]
+- ["SQ", "numberOfComponentsInPickerView"]
+- !private ["SQ", "pickMaker"]
+- ["SQ", "pickerView"]
+- !private ["SQ", "subscript"]
 - !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "dataSource"]
+- !private ["s23ExpressibleByNilLiteralP", "delegate"]
 - ["SH", ""]
+- !private ["SH", "count"]
+- !private ["SH", "dataSource"]
+- !private ["SH", "delegate"]
 - !private ["SH", "init"]
+- !private ["SH", "makers"]
+- ["SH", "numberOfComponents"]
+- ["SH", "numberOfComponentsInPickerView"]
+- !private ["SH", "pickMaker"]
+- ["SH", "pickerView"]
+- !private ["SH", "subscript"]
 - !private ["SH", "viewDidLoad"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
 - ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "dataSource"]
+- !private ["So8NSCodingP", "delegate"]
 - !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "makers"]
+- ["So8NSCodingP", "numberOfComponents"]
+- ["So8NSCodingP", "numberOfComponentsInPickerView"]
+- !private ["So8NSCodingP", "pickMaker"]
+- ["So8NSCodingP", "pickerView"]
 - !private ["So8NSCodingP", "viewDidLoad"]
 - ["So26NSExtensionRequestHandlingP", ""]
 - !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "makers"]
+- ["So26NSExtensionRequestHandlingP", "numberOfComponents"]
+- ["So26NSExtensionRequestHandlingP", "numberOfComponentsInPickerView"]
+- !private ["So26NSExtensionRequestHandlingP", "pickMaker"]
+- ["So26NSExtensionRequestHandlingP", "pickerView"]
 - !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIPickerView"]
+- !private ["So8NSObjectC", "dataSource"]
+- !private ["So8NSObjectC", "delegate"]
 - ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "makers"]
+- ["So8NSObjectC", "numberOfComponents"]
+- ["So8NSObjectC", "numberOfComponentsInPickerView"]
+- ["So8NSObjectC", "pickMaker"]
+- ["So8NSObjectC", "pickerView"]
 - ["So8NSObjectC", "viewDidLoad"]
 - ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "dataSource"]
+- !private ["So8NSObjectP", "delegate"]
 - !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "makers"]
+- ["So8NSObjectP", "numberOfComponents"]
+- ["So8NSObjectP", "numberOfComponentsInPickerView"]
+- !private ["So8NSObjectP", "pickMaker"]
+- ["So8NSObjectP", "pickerView"]
 - !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "dataSource"]
+- !private ["Sq", "delegate"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "count"]
+- !private ["ST", "subscript"]
+- !private ["So29UIAccessibilityIdentificationP", "dataSource"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So12UIAppearanceP", "dataSource"]
+- !private ["So12UIAppearanceP", "delegate"]
 - ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "dataSource"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
 - !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "makers"]
+- ["So21UIAppearanceContainerP", "numberOfComponents"]
+- ["So21UIAppearanceContainerP", "numberOfComponentsInPickerView"]
+- !private ["So21UIAppearanceContainerP", "pickMaker"]
+- ["So21UIAppearanceContainerP", "pickerView"]
 - !private ["So21UIAppearanceContainerP", "viewDidLoad"]
 - ["So18UIContentContainerP", ""]
 - !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "makers"]
+- ["So18UIContentContainerP", "numberOfComponents"]
+- ["So18UIContentContainerP", "numberOfComponentsInPickerView"]
+- !private ["So18UIContentContainerP", "pickMaker"]
+- ["So18UIContentContainerP", "pickerView"]
 - !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "dataSource"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So13UIDynamicItemP", "dataSource"]
+- !private ["So13UIDynamicItemP", "delegate"]
 - ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "dataSource"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
 - !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "makers"]
+- ["So18UIFocusEnvironmentP", "numberOfComponents"]
+- ["So18UIFocusEnvironmentP", "numberOfComponentsInPickerView"]
+- !private ["So18UIFocusEnvironmentP", "pickMaker"]
+- ["So18UIFocusEnvironmentP", "pickerView"]
 - !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "dataSource"]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So20UIFocusItemContainerP", "dataSource"]
+- !private ["So20UIFocusItemContainerP", "delegate"]
 - ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "dataSource"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
 - !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "makers"]
+- ["So30UIPasteConfigurationSupportingP", "numberOfComponents"]
+- ["So30UIPasteConfigurationSupportingP", "numberOfComponentsInPickerView"]
+- !private ["So30UIPasteConfigurationSupportingP", "pickMaker"]
+- ["So30UIPasteConfigurationSupportingP", "pickerView"]
 - !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So12UIPickerViewC", "dataSource"]
+- !private ["So12UIPickerViewC", "delegate"]
+- ["So22UIPickerViewDataSourceP", ""]
+- !private ["So22UIPickerViewDataSourceP", "makers"]
+- ["So22UIPickerViewDataSourceP", "numberOfComponents"]
+- ["So22UIPickerViewDataSourceP", "numberOfComponentsInPickerView"]
+- !private ["So22UIPickerViewDataSourceP", "pickMaker"]
+- ["So22UIPickerViewDataSourceP", "pickerView"]
+- ["So20UIPickerViewDelegateP", ""]
+- !private ["So20UIPickerViewDelegateP", "makers"]
+- ["So20UIPickerViewDelegateP", "numberOfComponents"]
+- ["So20UIPickerViewDelegateP", "numberOfComponentsInPickerView"]
+- !private ["So20UIPickerViewDelegateP", "pickMaker"]
+- ["So20UIPickerViewDelegateP", "pickerView"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIPickerView"]
+- !private ["So11UIResponderC", "dataSource"]
+- !private ["So11UIResponderC", "delegate"]
 - ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "makers"]
+- ["So11UIResponderC", "numberOfComponents"]
+- ["So11UIResponderC", "numberOfComponentsInPickerView"]
+- ["So11UIResponderC", "pickMaker"]
+- ["So11UIResponderC", "pickerView"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "dataSource"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
 - !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "makers"]
+- ["So30UIResponderStandardEditActionsP", "numberOfComponents"]
+- ["So30UIResponderStandardEditActionsP", "numberOfComponentsInPickerView"]
+- !private ["So30UIResponderStandardEditActionsP", "pickMaker"]
+- ["So30UIResponderStandardEditActionsP", "pickerView"]
 - !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
 - ["So16UIStateRestoringP", ""]
 - !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "makers"]
+- ["So16UIStateRestoringP", "numberOfComponents"]
+- ["So16UIStateRestoringP", "numberOfComponentsInPickerView"]
+- !private ["So16UIStateRestoringP", "pickMaker"]
+- ["So16UIStateRestoringP", "pickerView"]
 - !private ["So16UIStateRestoringP", "viewDidLoad"]
 - ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "dataSource"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
 - !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "makers"]
+- ["So18UITraitEnvironmentP", "numberOfComponents"]
+- ["So18UITraitEnvironmentP", "numberOfComponentsInPickerView"]
+- !private ["So18UITraitEnvironmentP", "pickMaker"]
+- ["So18UITraitEnvironmentP", "pickerView"]
 - !private ["So18UITraitEnvironmentP", "viewDidLoad"]
 - ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "dataSource"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
 - !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "makers"]
+- ["So23UIUserActivityRestoringP", "numberOfComponents"]
+- ["So23UIUserActivityRestoringP", "numberOfComponentsInPickerView"]
+- !private ["So23UIUserActivityRestoringP", "pickMaker"]
+- ["So23UIUserActivityRestoringP", "pickerView"]
 - !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "dataSource"]
+- !private ["So6UIViewC", "delegate"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIPickerView"]
 - ["So16UIViewControllerC", ""]
 - ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "makers"]
+- ["So16UIViewControllerC", "numberOfComponents"]
+- ["So16UIViewControllerC", "numberOfComponentsInPickerView"]
+- ["So16UIViewControllerC", "pickMaker"]
+- ["So16UIViewControllerC", "pickerView"]
 - ["So16UIViewControllerC", "viewDidLoad"]
+- ["9carsNcows14ViewControllerC", "Int"]
+- ["9carsNcows14ViewControllerC", "String"]
+- ["9carsNcows14ViewControllerC", "UIPickerView"]
 - ["9carsNcows14ViewControllerC", "deinit"]
 - ["9carsNcows14ViewControllerC", "init"]
+- ["9carsNcows14ViewControllerC", "makers"]
+- ["9carsNcows14ViewControllerC", "numberOfComponents"]
+- ["9carsNcows14ViewControllerC", "numberOfComponentsInPickerView"]
+- ["9carsNcows14ViewControllerC", "pickMaker"]
+- ["9carsNcows14ViewControllerC", "pickerView"]
 - ["9carsNcows14ViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataSource"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makers"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfComponents"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "numberOfComponentsInPickerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pickMaker"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "pickerView"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "dataSource"]
+- !private ["s21_ObjectiveCBridgeableP", "delegate"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dataSource"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "delegate"]
 depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "So15CALayerDelegateP"
 - "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
 - "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
 - "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
 - "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
 - "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
 - "So8NSCodingP"
 - "So26NSExtensionRequestHandlingP"
 - "So8NSObjectC"
 - "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
 - "So21UIAppearanceContainerP"
 - "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
 - "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
 - "So30UIPasteConfigurationSupportingP"
+- !private "So12UIPickerViewC"
+- "So22UIPickerViewDataSourceP"
+- "So20UIPickerViewDelegateP"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
 - "So16UIStateRestoringP"
 - "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
 - "So16UIViewControllerC"
 - "9carsNcows14ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
 - "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
@@ -120,4 +406,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "939bb7e8c3a7b4567ab8b8d960798a84"
+interface-hash: "430919909e8c17687aff0d5a1b871159"

@@ -5,6 +5,71 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>18A7154D-8338-41EB-A3B5-5BBE8E1A8165</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>18A7154D-8338-41EB-A3B5-5BBE8E1A8165.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576299440.42542303</real>
+			<key>timeStoppedRecording</key>
+			<real>576299513.20527005</real>
+			<key>title</key>
+			<string>Debug carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>18A7154D-8338-41EB-A3B5-5BBE8E1A8165</string>
+		</dict>
+		<key>65FF10A7-7257-450E-A9DF-8193EFF1699D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65FF10A7-7257-450E-A9DF-8193EFF1699D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576299776.63570702</real>
+			<key>timeStoppedRecording</key>
+			<real>576301127.57591701</real>
+			<key>title</key>
+			<string>Debug carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>65FF10A7-7257-450E-A9DF-8193EFF1699D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
