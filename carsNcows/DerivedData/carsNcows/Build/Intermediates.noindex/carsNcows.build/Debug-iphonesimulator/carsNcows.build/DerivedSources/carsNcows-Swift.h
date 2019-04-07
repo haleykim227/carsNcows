@@ -199,20 +199,23 @@ SWIFT_CLASS("_TtC9carsNcows11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UIPickerView;
 @class UIButton;
+@class UIPickerView;
+@class UIStoryboardSegue;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC9carsNcows14ViewController")
 @interface ViewController : UIViewController <UIPickerViewDataSource, UIPickerViewDelegate>
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified cowculateButton;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified helpButton;
 @property (nonatomic, weak) IBOutlet UIPickerView * _Null_unspecified pickMaker;
+- (void)viewDidLoad;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView * _Nonnull)pickerView SWIFT_WARN_UNUSED_RESULT;
 - (NSInteger)pickerView:(UIPickerView * _Nonnull)pickerView numberOfRowsInComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)pickerView:(UIPickerView * _Nonnull)pickerView titleForRow:(NSInteger)row forComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
-- (void)viewDidLoad;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified cowculateButton;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified helpButton;
+- (void)pickerView:(UIPickerView * _Nonnull)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

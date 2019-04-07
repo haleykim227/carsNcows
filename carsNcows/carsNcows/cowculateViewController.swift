@@ -10,13 +10,16 @@ import UIKit
 
 class cowculateViewController: UIViewController {
 
+    var selected: String!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        
+        print("CowCalculate says:", selected)
+        
     }
-    
 
+    
     /*
     // MARK: - Navigation
 

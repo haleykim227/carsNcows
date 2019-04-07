@@ -103,12 +103,12 @@
 			children = (
 				DE7D418F2259994A002CE296 /* AppDelegate.swift */,
 				DE7D41912259994A002CE296 /* ViewController.swift */,
+				DE7D41BF2259B87C002CE296 /* cowculateViewController.swift */,
+				DE7D41C12259B8AB002CE296 /* helpViewController.swift */,
 				DE7D41932259994A002CE296 /* Main.storyboard */,
 				DE7D41962259994B002CE296 /* Assets.xcassets */,
 				DE7D41982259994B002CE296 /* LaunchScreen.storyboard */,
 				DE7D419B2259994B002CE296 /* Info.plist */,
-				DE7D41BF2259B87C002CE296 /* cowculateViewController.swift */,
-				DE7D41C12259B8AB002CE296 /* helpViewController.swift */,
 			);
 			path = carsNcows;
 			sourceTree = "<group>";

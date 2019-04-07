@@ -10,20 +10,13 @@ import UIKit
 
 class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
     
+    @IBOutlet weak var cowculateButton: UIButton!
+    @IBOutlet weak var helpButton: UIButton!
     @IBOutlet weak var pickMaker: UIPickerView!
-    let makers = ["ACURA", "ALFA ROMEO", "AUDI", "BENTLEY", "BUICK", "CADILLAC", "CHEVROLET", "CHRYSLER", "DODGE", "FIAT", "FORD", "GMC", "GENESIS", "HONDA", "INFINITI", "JAGUAR", "JEEP", "KIA", "LAND ROVER", "LEXUS", "LINCOLN", "LOTUS", "MASERATI", "MAZDA", "MERCEDES-BENZ", "MERCURY", "MINI", "MITSUBISHI", "NISSAN", "POLESTAR", "PONTIAC", "PORSCHE", "RAM", "ROLLS-ROYCE", "SAAB", "SATURN", "SCION", "SMART", "SUBARU", "SUZUKI", "TESLA", "TOYOTA", "VOLKSWAGEN", "VOLVO"]
     
-    func numberOfComponents(in pickerView: UIPickerView) -> Int {
-        return 1
-    }
+    let makers = ["", "ACURA", "ALFA ROMEO", "AUDI", "BENTLEY", "BUICK", "CADILLAC", "CHEVROLET", "CHRYSLER", "DODGE", "FIAT", "FORD", "GMC", "GENESIS", "HONDA", "INFINITI", "JAGUAR", "JEEP", "KIA", "LAND ROVER", "LEXUS", "LINCOLN", "LOTUS", "MASERATI", "MAZDA", "MERCEDES-BENZ", "MERCURY", "MINI", "MITSUBISHI", "NISSAN", "POLESTAR", "PONTIAC", "PORSCHE", "RAM", "ROLLS-ROYCE", "SAAB", "SATURN", "SCION", "SMART", "SUBARU", "SUZUKI", "TESLA", "TOYOTA", "VOLKSWAGEN", "VOLVO"]
     
-    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
-        return makers.count
-    }
-    
-    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
-        return makers[row]
-    }
+    var valueSelected: String!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -39,9 +32,27 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         // Rounding help Button
         helpButton.layer.cornerRadius = 20
     }
-
-    @IBOutlet weak var cowculateButton: UIButton!
     
-    @IBOutlet weak var helpButton: UIButton!
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let vc = segue.destination as! cowculateViewController
+        vc.selected = valueSelected
+    }
+    
+    func numberOfComponents(in pickerView: UIPickerView) -> Int {
+        return 1
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+        return makers.count
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+        return makers[row]
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+        valueSelected = makers[row]
+    }
+    
 }
 

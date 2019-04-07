@@ -6,6 +6,70 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>028E215C-E427-477C-8554-808E5214F3C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>028E215C-E427-477C-8554-808E5214F3C4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576307396.74958396</real>
+			<key>timeStoppedRecording</key>
+			<real>576307397.14943898</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>028E215C-E427-477C-8554-808E5214F3C4</string>
+		</dict>
+		<key>096E8E36-1595-4E3A-A7F0-72352D33D880</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>096E8E36-1595-4E3A-A7F0-72352D33D880.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309177.43556094</real>
+			<key>timeStoppedRecording</key>
+			<real>576309179.665254</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>096E8E36-1595-4E3A-A7F0-72352D33D880</string>
+		</dict>
 		<key>0F3CD37F-1F88-45C7-A0D8-5250712E60EF</key>
 		<dict>
 			<key>className</key>
@@ -37,6 +101,326 @@
 			<string>Build carsNcows</string>
 			<key>uniqueIdentifier</key>
 			<string>0F3CD37F-1F88-45C7-A0D8-5250712E60EF</string>
+		</dict>
+		<key>17F58994-9626-43FB-B22B-93A4D31447AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17F58994-9626-43FB-B22B-93A4D31447AE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310526.31674194</real>
+			<key>timeStoppedRecording</key>
+			<real>576310526.56017601</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>17F58994-9626-43FB-B22B-93A4D31447AE</string>
+		</dict>
+		<key>19F7890D-9AD7-4993-8B04-00093F44E1AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19F7890D-9AD7-4993-8B04-00093F44E1AE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576307368.83062005</real>
+			<key>timeStoppedRecording</key>
+			<real>576307371.25324297</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>19F7890D-9AD7-4993-8B04-00093F44E1AE</string>
+		</dict>
+		<key>1A558DD1-1790-4B4D-8197-95E34A3FBB66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A558DD1-1790-4B4D-8197-95E34A3FBB66.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309258.13960099</real>
+			<key>timeStoppedRecording</key>
+			<real>576309258.21547198</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>1A558DD1-1790-4B4D-8197-95E34A3FBB66</string>
+		</dict>
+		<key>1D0DE60F-ED56-47B8-9D26-B063207913B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D0DE60F-ED56-47B8-9D26-B063207913B6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576307008.96904302</real>
+			<key>timeStoppedRecording</key>
+			<real>576307011.29777396</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>1D0DE60F-ED56-47B8-9D26-B063207913B6</string>
+		</dict>
+		<key>1FD00701-3F50-4C60-90DD-048EC44550CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1FD00701-3F50-4C60-90DD-048EC44550CA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308912.79039204</real>
+			<key>timeStoppedRecording</key>
+			<real>576308917.14598596</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>1FD00701-3F50-4C60-90DD-048EC44550CA</string>
+		</dict>
+		<key>27E7CC13-3489-4E3E-B058-3E07E821720F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27E7CC13-3489-4E3E-B058-3E07E821720F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576306855.97289896</real>
+			<key>timeStoppedRecording</key>
+			<real>576306856.52175605</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>27E7CC13-3489-4E3E-B058-3E07E821720F</string>
+		</dict>
+		<key>360693AA-F717-4870-9A8D-43C1AABA9A43</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>360693AA-F717-4870-9A8D-43C1AABA9A43.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309023.62462103</real>
+			<key>timeStoppedRecording</key>
+			<real>576309024.84053302</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>360693AA-F717-4870-9A8D-43C1AABA9A43</string>
+		</dict>
+		<key>406574C7-055C-4D9B-838B-68F7D29D33F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>406574C7-055C-4D9B-838B-68F7D29D33F2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310417.25018799</real>
+			<key>timeStoppedRecording</key>
+			<real>576310418.12670302</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>406574C7-055C-4D9B-838B-68F7D29D33F2</string>
+		</dict>
+		<key>411F46C2-B804-46C0-A1BA-5BE3A45AF469</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>411F46C2-B804-46C0-A1BA-5BE3A45AF469.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309224.50010598</real>
+			<key>timeStoppedRecording</key>
+			<real>576309225.79782498</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>411F46C2-B804-46C0-A1BA-5BE3A45AF469</string>
+		</dict>
+		<key>481A4E8D-2DCD-4785-8F17-A3220B311C51</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>481A4E8D-2DCD-4785-8F17-A3220B311C51.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310004.67772901</real>
+			<key>timeStoppedRecording</key>
+			<real>576310007.19942796</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>481A4E8D-2DCD-4785-8F17-A3220B311C51</string>
 		</dict>
 		<key>489432AC-7466-421D-8107-0818A1BAFD6F</key>
 		<dict>
@@ -70,6 +454,70 @@
 			<key>uniqueIdentifier</key>
 			<string>489432AC-7466-421D-8107-0818A1BAFD6F</string>
 		</dict>
+		<key>4C2F2CE2-5CA8-4590-9803-974ACE80A111</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C2F2CE2-5CA8-4590-9803-974ACE80A111.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308918.60060203</real>
+			<key>timeStoppedRecording</key>
+			<real>576308919.12081099</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>4C2F2CE2-5CA8-4590-9803-974ACE80A111</string>
+		</dict>
+		<key>4E793698-8620-4E22-A92B-EC7EB108D840</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E793698-8620-4E22-A92B-EC7EB108D840.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576306751.02706003</real>
+			<key>timeStoppedRecording</key>
+			<real>576306753.42135894</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>4E793698-8620-4E22-A92B-EC7EB108D840</string>
+		</dict>
 		<key>4F624DB9-6EBF-4B81-A1BF-2CB75F1F1EBE</key>
 		<dict>
 			<key>className</key>
@@ -101,6 +549,294 @@
 			<string>Build carsNcows</string>
 			<key>uniqueIdentifier</key>
 			<string>4F624DB9-6EBF-4B81-A1BF-2CB75F1F1EBE</string>
+		</dict>
+		<key>54EBC740-EEEE-45B6-B6EB-BB79E0C82F8F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54EBC740-EEEE-45B6-B6EB-BB79E0C82F8F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309549.02012503</real>
+			<key>timeStoppedRecording</key>
+			<real>576309551.25493705</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>54EBC740-EEEE-45B6-B6EB-BB79E0C82F8F</string>
+		</dict>
+		<key>59D58AE6-EF9B-4A99-8479-882C2BC79C92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59D58AE6-EF9B-4A99-8479-882C2BC79C92.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576307419.88369</real>
+			<key>timeStoppedRecording</key>
+			<real>576307421.39622498</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>59D58AE6-EF9B-4A99-8479-882C2BC79C92</string>
+		</dict>
+		<key>5AE7F0F6-95CE-4345-86F3-89739D2C73E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5AE7F0F6-95CE-4345-86F3-89739D2C73E3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576306766.83969498</real>
+			<key>timeStoppedRecording</key>
+			<real>576306767.94393802</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>5AE7F0F6-95CE-4345-86F3-89739D2C73E3</string>
+		</dict>
+		<key>68956A86-EAA4-4378-BE2D-F05F5F5217FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68956A86-EAA4-4378-BE2D-F05F5F5217FB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576306213.57916796</real>
+			<key>timeStoppedRecording</key>
+			<real>576306215.37789702</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>68956A86-EAA4-4378-BE2D-F05F5F5217FB</string>
+		</dict>
+		<key>68D8657A-C354-4494-BA8D-6C11C6C7E9C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68D8657A-C354-4494-BA8D-6C11C6C7E9C8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309337.01328599</real>
+			<key>timeStoppedRecording</key>
+			<real>576309338.26147103</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>68D8657A-C354-4494-BA8D-6C11C6C7E9C8</string>
+		</dict>
+		<key>739FC615-0AAC-48ED-B7BD-B03A769EF181</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>739FC615-0AAC-48ED-B7BD-B03A769EF181.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310506.95599496</real>
+			<key>timeStoppedRecording</key>
+			<real>576310507.16768098</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>739FC615-0AAC-48ED-B7BD-B03A769EF181</string>
+		</dict>
+		<key>7D4364EA-2B4A-41EA-A0A0-1A5A7DCC5570</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D4364EA-2B4A-41EA-A0A0-1A5A7DCC5570.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308171.15590799</real>
+			<key>timeStoppedRecording</key>
+			<real>576308171.78055</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>7D4364EA-2B4A-41EA-A0A0-1A5A7DCC5570</string>
+		</dict>
+		<key>7E81E084-6948-49A4-BCBE-00AD73F057CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E81E084-6948-49A4-BCBE-00AD73F057CF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576305813.99784195</real>
+			<key>timeStoppedRecording</key>
+			<real>576305815.856511</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>7E81E084-6948-49A4-BCBE-00AD73F057CF</string>
+		</dict>
+		<key>806D6DA4-34A2-4649-B3BB-4778E3868843</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>806D6DA4-34A2-4649-B3BB-4778E3868843.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308738.28114295</real>
+			<key>timeStoppedRecording</key>
+			<real>576308740.48610604</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>806D6DA4-34A2-4649-B3BB-4778E3868843</string>
 		</dict>
 		<key>850F6F9B-96CC-475E-96C1-2F7EE0A6A50F</key>
 		<dict>
@@ -166,6 +902,38 @@
 			<key>uniqueIdentifier</key>
 			<string>869DC7DC-AFCB-4760-A7DA-2F860859F538</string>
 		</dict>
+		<key>8DF3FAFF-C956-4C7F-BFE4-3CE336E02E18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8DF3FAFF-C956-4C7F-BFE4-3CE336E02E18.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576305626.88734305</real>
+			<key>timeStoppedRecording</key>
+			<real>576305626.99869096</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>8DF3FAFF-C956-4C7F-BFE4-3CE336E02E18</string>
+		</dict>
 		<key>91BDC42A-0527-45DD-BF13-9624AA76C684</key>
 		<dict>
 			<key>className</key>
@@ -230,6 +998,70 @@
 			<key>uniqueIdentifier</key>
 			<string>9289FA29-F1DD-4C82-89A3-B78F4E7EE15D</string>
 		</dict>
+		<key>99033AD1-32B3-429B-9199-11EA00F174CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99033AD1-32B3-429B-9199-11EA00F174CC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310445.72287798</real>
+			<key>timeStoppedRecording</key>
+			<real>576310447.38365102</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>99033AD1-32B3-429B-9199-11EA00F174CC</string>
+		</dict>
+		<key>A9669187-FCDA-4EFA-A828-F459178D8EC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9669187-FCDA-4EFA-A828-F459178D8EC8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308178.73437905</real>
+			<key>timeStoppedRecording</key>
+			<real>576308180.457618</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>A9669187-FCDA-4EFA-A828-F459178D8EC8</string>
+		</dict>
 		<key>AC85E4B7-1DFD-4CA4-8F7A-0148543FA561</key>
 		<dict>
 			<key>className</key>
@@ -261,6 +1093,70 @@
 			<string>Build carsNcows</string>
 			<key>uniqueIdentifier</key>
 			<string>AC85E4B7-1DFD-4CA4-8F7A-0148543FA561</string>
+		</dict>
+		<key>AE506487-F6B5-4EF8-89BA-02D0CB3FB87A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE506487-F6B5-4EF8-89BA-02D0CB3FB87A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310372.00004005</real>
+			<key>timeStoppedRecording</key>
+			<real>576310373.31109405</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>AE506487-F6B5-4EF8-89BA-02D0CB3FB87A</string>
+		</dict>
+		<key>AEEAA7EA-6741-47BF-9D3E-BAE7EC501CA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AEEAA7EA-6741-47BF-9D3E-BAE7EC501CA5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308902.65952599</real>
+			<key>timeStoppedRecording</key>
+			<real>576308904.81970501</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>AEEAA7EA-6741-47BF-9D3E-BAE7EC501CA5</string>
 		</dict>
 		<key>B0B0DE69-2767-4CFD-84EE-DA120CD51BB9</key>
 		<dict>
@@ -294,6 +1190,38 @@
 			<key>uniqueIdentifier</key>
 			<string>B0B0DE69-2767-4CFD-84EE-DA120CD51BB9</string>
 		</dict>
+		<key>B45711E7-254D-45E8-A593-093D6B7C1FC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B45711E7-254D-45E8-A593-093D6B7C1FC3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309269.85480797</real>
+			<key>timeStoppedRecording</key>
+			<real>576309270.08759105</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>B45711E7-254D-45E8-A593-093D6B7C1FC3</string>
+		</dict>
 		<key>B4DE013C-1003-465E-BB05-84C1EB916F11</key>
 		<dict>
 			<key>className</key>
@@ -326,6 +1254,102 @@
 			<key>uniqueIdentifier</key>
 			<string>B4DE013C-1003-465E-BB05-84C1EB916F11</string>
 		</dict>
+		<key>B5D89063-F5DE-4170-AB39-A9C0F7E7BC97</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5D89063-F5DE-4170-AB39-A9C0F7E7BC97.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310409.25900495</real>
+			<key>timeStoppedRecording</key>
+			<real>576310409.62010598</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>B5D89063-F5DE-4170-AB39-A9C0F7E7BC97</string>
+		</dict>
+		<key>C717A350-2F10-4A73-A8F5-C39FF78EC735</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C717A350-2F10-4A73-A8F5-C39FF78EC735.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576309624.82445204</real>
+			<key>timeStoppedRecording</key>
+			<real>576309626.14493704</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>C717A350-2F10-4A73-A8F5-C39FF78EC735</string>
+		</dict>
+		<key>C7A05B3D-0DC4-4A35-8EA6-20E674A887E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7A05B3D-0DC4-4A35-8EA6-20E674A887E7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310333.54285705</real>
+			<key>timeStoppedRecording</key>
+			<real>576310335.41880095</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>C7A05B3D-0DC4-4A35-8EA6-20E674A887E7</string>
+		</dict>
 		<key>CD2FC6EF-1629-4EEE-A6C3-49185A2C859F</key>
 		<dict>
 			<key>className</key>
@@ -357,6 +1381,230 @@
 			<string>Build carsNcows</string>
 			<key>uniqueIdentifier</key>
 			<string>CD2FC6EF-1629-4EEE-A6C3-49185A2C859F</string>
+		</dict>
+		<key>DA2D9EA7-7C0B-40FA-B31C-27419D347D12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA2D9EA7-7C0B-40FA-B31C-27419D347D12.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576306624.71455097</real>
+			<key>timeStoppedRecording</key>
+			<real>576306626.38979101</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>DA2D9EA7-7C0B-40FA-B31C-27419D347D12</string>
+		</dict>
+		<key>DA677306-5B9E-4C69-9744-F31A15475D1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA677306-5B9E-4C69-9744-F31A15475D1D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576306578.03695202</real>
+			<key>timeStoppedRecording</key>
+			<real>576306578.62183702</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>DA677306-5B9E-4C69-9744-F31A15475D1D</string>
+		</dict>
+		<key>DB39C5F6-7EE1-4EF5-8860-776283F71911</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB39C5F6-7EE1-4EF5-8860-776283F71911.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576307464.38856995</real>
+			<key>timeStoppedRecording</key>
+			<real>576307465.85828304</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>DB39C5F6-7EE1-4EF5-8860-776283F71911</string>
+		</dict>
+		<key>E02831CC-27B4-4EF6-BF73-EF4FB782C167</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E02831CC-27B4-4EF6-BF73-EF4FB782C167.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310407.50979197</real>
+			<key>timeStoppedRecording</key>
+			<real>576310408.92938805</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>E02831CC-27B4-4EF6-BF73-EF4FB782C167</string>
+		</dict>
+		<key>FB14C720-FA6D-49ED-BB3E-F2CDCD627678</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB14C720-FA6D-49ED-BB3E-F2CDCD627678.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310475.32096398</real>
+			<key>timeStoppedRecording</key>
+			<real>576310478.26722503</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>FB14C720-FA6D-49ED-BB3E-F2CDCD627678</string>
+		</dict>
+		<key>FD17F440-39B2-4AF8-973D-678F7263EE88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD17F440-39B2-4AF8-973D-678F7263EE88.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576310520.142995</real>
+			<key>timeStoppedRecording</key>
+			<real>576310521.33067405</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>FD17F440-39B2-4AF8-973D-678F7263EE88</string>
+		</dict>
+		<key>FEA0BF85-A65B-4E9B-A576-4F0491177401</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FEA0BF85-A65B-4E9B-A576-4F0491177401.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>carsNcows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>carsNcows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build carsNcows</string>
+			<key>timeStartedRecording</key>
+			<real>576308917.87718403</real>
+			<key>timeStoppedRecording</key>
+			<real>576308918.31853199</real>
+			<key>title</key>
+			<string>Build carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>FEA0BF85-A65B-4E9B-A576-4F0491177401</string>
 		</dict>
 	</dict>
 </dict>

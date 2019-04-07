@@ -70,7 +70,7 @@
                                     </attributedString>
                                 </state>
                                 <connections>
-                                    <segue destination="FBC-gS-ZeZ" kind="presentation" id="yfZ-0L-alP"/>
+                                    <segue destination="FBC-gS-ZeZ" kind="show" id="QiS-nu-x5D"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -102,10 +102,10 @@
             </objects>
             <point key="canvasLocation" x="138" y="805"/>
         </scene>
-        <!--View Controller-->
+        <!--Cowculate View Controller-->
         <scene sceneID="Ote-xI-rYl">
             <objects>
-                <viewController id="FBC-gS-ZeZ" sceneMemberID="viewController">
+                <viewController id="FBC-gS-ZeZ" customClass="cowculateViewController" customModule="carsNcows" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Y9d-Gw-qXN">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
