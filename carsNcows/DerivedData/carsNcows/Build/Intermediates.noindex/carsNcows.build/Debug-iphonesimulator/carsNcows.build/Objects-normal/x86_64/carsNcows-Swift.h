@@ -200,6 +200,7 @@ SWIFT_CLASS("_TtC9carsNcows11AppDelegate")
 @end
 
 @class UIPickerView;
+@class UIButton;
 @class NSBundle;
 @class NSCoder;
 
@@ -210,6 +211,7 @@ SWIFT_CLASS("_TtC9carsNcows14ViewController")
 - (NSInteger)pickerView:(UIPickerView * _Nonnull)pickerView numberOfRowsInComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
 - (NSString * _Nullable)pickerView:(UIPickerView * _Nonnull)pickerView titleForRow:(NSInteger)row forComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
 - (void)viewDidLoad;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified cowculateButton;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

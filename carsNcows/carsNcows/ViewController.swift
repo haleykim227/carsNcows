@@ -32,7 +32,12 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         // Connect Data
         pickMaker.delegate = self
         pickMaker.dataSource = self
+        
+        // Rounding Cow-culate button
+        cowculateButton.layer.cornerRadius = 7
     }
 
+    @IBOutlet weak var cowculateButton: UIButton!
+    
 }
 
