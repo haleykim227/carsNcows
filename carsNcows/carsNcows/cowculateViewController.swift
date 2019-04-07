@@ -129,6 +129,11 @@ class cowculateViewController: UIViewController {
             self.imageRight.image = UIImage(named: "pointFour.png")
         }
         
+        if CO2emissions < 0 {
+            emissionNumber.text = "ERROR"
+            cowNumber.text = "ERROR"
+        }
+        
         backButton.layer.cornerRadius = 7
     }
 
