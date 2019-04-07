@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "302C596BA074719F54F14B5FD19D55FF91B76BB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "302C596BA074719F54F14B5FD19D55FF91B76BB2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "07E5DB74-0949-4AA1-8764-534A1623B809",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "302C596BA074719F54F14B5FD19D55FF91B76BB2" : "carsNcows\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "carsNcows",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "carsNcows\/carsNcows.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:haleykim227\/carsNcows.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "302C596BA074719F54F14B5FD19D55FF91B76BB2"
+    }
+  ]
+}
