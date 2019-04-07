@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
 options: "aac74cabbb9bac1d8c1d34714b0182f8"
-build_time: [1554626787, 181263000]
+build_time: [1554631115, 745738000]
 inputs:
-  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/ViewController.swift": [1554624868, 725062170]
-  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/AppDelegate.swift": [1554621042, 164216032]
-  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/cowculateViewController.swift": [1554626776, 180103560]
-  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/helpViewController.swift": [1554621179, 88968459]
+  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/ViewController.swift": [1554628890, 10853944]
+  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/AppDelegate.swift": [1554628890, 5706983]
+  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/cowculateViewController.swift": [1554630844, 452521154]
+  "/Users/haleykim/Desktop/carsNcows/carsNcows/carsNcows/helpViewController.swift": [1554628890, 11076924]

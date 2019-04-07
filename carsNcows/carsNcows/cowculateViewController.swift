@@ -17,6 +17,8 @@ class cowculateViewController: UIViewController {
     @IBOutlet weak var backButton: UIButton!
     @IBOutlet weak var emissionNumber: UILabel!
     @IBOutlet weak var cowNumber: UILabel!
+    @IBOutlet weak var imageLeft: UIImageView!
+    @IBOutlet weak var imageRight: UIImageView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -102,6 +104,30 @@ class cowculateViewController: UIViewController {
         
         emissionNumber.text = String(CO2emissionsRounded) + " kg/yr"
         cowNumber.text = String(cowsRounded) + " cows"
+        
+        if cowsRounded >= 0.95 && cowsRounded < 1.05 {
+            self.imageLeft.image = UIImage(named: "one.png")
+        }
+        
+        if cowsRounded >= 1.05 && cowsRounded < 1.15 {
+            self.imageLeft.image = UIImage(named: "one.png")
+            self.imageRight.image = UIImage(named: "pointOne.png")
+        }
+        
+        if cowsRounded >= 1.15 && cowsRounded < 1.25 {
+            self.imageLeft.image = UIImage(named: "one.png")
+            self.imageRight.image = UIImage(named: "pointTwo.png")
+        }
+        
+        if cowsRounded >= 1.25 && cowsRounded < 1.35 {
+            self.imageLeft.image = UIImage(named: "one.png")
+            self.imageRight.image = UIImage(named: "pointThree.png")
+        }
+        
+        if cowsRounded >= 1.35 && cowsRounded < 1.45 {
+            self.imageLeft.image = UIImage(named: "one.png")
+            self.imageRight.image = UIImage(named: "pointFour.png")
+        }
         
         backButton.layer.cornerRadius = 7
     }
