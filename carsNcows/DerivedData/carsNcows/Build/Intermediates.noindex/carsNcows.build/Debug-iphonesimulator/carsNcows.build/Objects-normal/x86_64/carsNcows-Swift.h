@@ -226,6 +226,7 @@ SWIFT_CLASS("_TtC9carsNcows23cowculateViewController")
 @interface cowculateViewController : UIViewController
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified backButton;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified emissionNumber;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified cowNumber;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;

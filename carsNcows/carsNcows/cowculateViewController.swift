@@ -12,9 +12,11 @@ class cowculateViewController: UIViewController {
 
     var selected: String!
     var CO2emissions: Double!
+    var cows: Double!
     
     @IBOutlet weak var backButton: UIButton!
     @IBOutlet weak var emissionNumber: UILabel!
+    @IBOutlet weak var cowNumber: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -92,9 +94,13 @@ class cowculateViewController: UIViewController {
 //        let y = Double(round(1000*x)/1000)
 //        print(y)  // 1.236
         CO2emissions = CO2emissions * 21.687
-        CO2emissions = Double(round(1000*CO2emissions)/1000)
+        let CO2emissionsRounded = Double(round(1000*CO2emissions)/1000)
         
-        emissionNumber.text = String(CO2emissions) + " kg/yr"
+        cows = CO2emissions/2300
+        let cowsRounded = Double(round(100*cows)/100)
+        
+        emissionNumber.text = String(CO2emissionsRounded) + " kg/yr"
+        cowNumber.text = String(cowsRounded) + " cows"
         
         backButton.layer.cornerRadius = 7
     }

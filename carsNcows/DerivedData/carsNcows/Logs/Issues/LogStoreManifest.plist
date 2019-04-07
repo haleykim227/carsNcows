@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>D9CF24B3-3B8D-428D-9AF9-E584D96ECC6F</key>
+		<key>BB62F358-CB13-474A-AFD5-381E03AC3133</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>D9CF24B3-3B8D-428D-9AF9-E584D96ECC6F.xcactivitylog</string>
+			<string>BB62F358-CB13-474A-AFD5-381E03AC3133.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -24,13 +24,13 @@
 			<key>signature</key>
 			<string>carsNcows-bdvbbjiasgsuhsefudjylfsxcwjh</string>
 			<key>timeStartedRecording</key>
-			<real>576319162.31275499</real>
+			<real>576319587.16347504</real>
 			<key>timeStoppedRecording</key>
-			<real>576319162.60610497</real>
+			<real>576319590.76986897</real>
 			<key>title</key>
 			<string>Build target carsNcows</string>
 			<key>uniqueIdentifier</key>
-			<string>D9CF24B3-3B8D-428D-9AF9-E584D96ECC6F</string>
+			<string>BB62F358-CB13-474A-AFD5-381E03AC3133</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
