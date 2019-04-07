@@ -14,6 +14,7 @@ class cowculateViewController: UIViewController {
     var CO2emissions: Double!
     
     @IBOutlet weak var backButton: UIButton!
+    @IBOutlet weak var emissionNumber: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -87,8 +88,17 @@ class cowculateViewController: UIViewController {
             CO2emissions = -1
         }
         
+//        let x = 1.23556789
+//        let y = Double(round(1000*x)/1000)
+//        print(y)  // 1.236
+        CO2emissions = CO2emissions * 21.687
+        CO2emissions = Double(round(1000*CO2emissions)/1000)
+        
+        emissionNumber.text = String(CO2emissions) + " kg/yr"
+        
         backButton.layer.cornerRadius = 7
     }
+
 
     
     /*
