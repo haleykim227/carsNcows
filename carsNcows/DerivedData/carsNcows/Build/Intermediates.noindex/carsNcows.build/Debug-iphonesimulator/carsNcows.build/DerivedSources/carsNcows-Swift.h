@@ -212,6 +212,7 @@ SWIFT_CLASS("_TtC9carsNcows14ViewController")
 - (NSString * _Nullable)pickerView:(UIPickerView * _Nonnull)pickerView titleForRow:(NSInteger)row forComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
 - (void)viewDidLoad;
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified cowculateButton;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified helpButton;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

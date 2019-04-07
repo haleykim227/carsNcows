@@ -35,9 +35,13 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         
         // Rounding Cow-culate button
         cowculateButton.layer.cornerRadius = 7
+        
+        // Rounding help Button
+        helpButton.layer.cornerRadius = 20
     }
 
     @IBOutlet weak var cowculateButton: UIButton!
     
+    @IBOutlet weak var helpButton: UIButton!
 }
 
