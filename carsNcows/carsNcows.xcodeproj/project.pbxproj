@@ -14,6 +14,8 @@
 		DE7D419A2259994B002CE296 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE7D41982259994B002CE296 /* LaunchScreen.storyboard */; };
 		DE7D41A52259994B002CE296 /* carsNcowsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7D41A42259994B002CE296 /* carsNcowsTests.swift */; };
 		DE7D41B02259994B002CE296 /* carsNcowsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7D41AF2259994B002CE296 /* carsNcowsUITests.swift */; };
+		DE7D41C02259B87C002CE296 /* cowculateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7D41BF2259B87C002CE296 /* cowculateViewController.swift */; };
+		DE7D41C22259B8AB002CE296 /* helpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7D41C12259B8AB002CE296 /* helpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		DE7D41AB2259994B002CE296 /* carsNcowsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = carsNcowsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE7D41AF2259994B002CE296 /* carsNcowsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carsNcowsUITests.swift; sourceTree = "<group>"; };
 		DE7D41B12259994B002CE296 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE7D41BF2259B87C002CE296 /* cowculateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cowculateViewController.swift; sourceTree = "<group>"; };
+		DE7D41C12259B8AB002CE296 /* helpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				DE7D41962259994B002CE296 /* Assets.xcassets */,
 				DE7D41982259994B002CE296 /* LaunchScreen.storyboard */,
 				DE7D419B2259994B002CE296 /* Info.plist */,
+				DE7D41BF2259B87C002CE296 /* cowculateViewController.swift */,
+				DE7D41C12259B8AB002CE296 /* helpViewController.swift */,
 			);
 			path = carsNcows;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				DE7D41922259994A002CE296 /* ViewController.swift in Sources */,
 				DE7D41902259994A002CE296 /* AppDelegate.swift in Sources */,
+				DE7D41C02259B87C002CE296 /* cowculateViewController.swift in Sources */,
+				DE7D41C22259B8AB002CE296 /* helpViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
