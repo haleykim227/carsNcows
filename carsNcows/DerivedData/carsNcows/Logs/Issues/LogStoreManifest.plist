@@ -6,6 +6,32 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>18734365-64C4-46DA-A609-DE60D2BD4F73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>18734365-64C4-46DA-A609-DE60D2BD4F73.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>carsNcows-bjvdeiivygslnifnhmbbnnsbaduk</string>
+			<key>timeStartedRecording</key>
+			<real>576807081.50451505</real>
+			<key>timeStoppedRecording</key>
+			<real>576807081.57561004</real>
+			<key>title</key>
+			<string>Build target carsNcows</string>
+			<key>uniqueIdentifier</key>
+			<string>18734365-64C4-46DA-A609-DE60D2BD4F73</string>
+		</dict>
 		<key>9CF74283-3DE6-4023-9B80-4BEA4B6CA6E4</key>
 		<dict>
 			<key>className</key>

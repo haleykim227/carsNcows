@@ -30,7 +30,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     func applicationDidFinishLaunching(_ application: UIApplication) {
-        RunLoop.current.run(until: Date(timeIntervalSinceNow: 3.0))
+        RunLoop.current.run(until: Date(timeIntervalSinceNow: 5.0))
     }
 
     func applicationWillEnterForeground(_ application: UIApplication) {

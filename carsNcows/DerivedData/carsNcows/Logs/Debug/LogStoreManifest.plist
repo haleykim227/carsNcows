@@ -6,38 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4AC31C90-68AB-41CA-AFAD-994B9F804191</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4AC31C90-68AB-41CA-AFAD-994B9F804191.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576327416.02499604</real>
-			<key>timeStoppedRecording</key>
-			<real>576327473.14019597</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>4AC31C90-68AB-41CA-AFAD-994B9F804191</string>
-		</dict>
 		<key>5FC3DC2C-0CA0-42F6-8AC0-4D98698DACCA</key>
 		<dict>
 			<key>className</key>
@@ -69,38 +37,6 @@
 			<string>Debug carsNcows</string>
 			<key>uniqueIdentifier</key>
 			<string>5FC3DC2C-0CA0-42F6-8AC0-4D98698DACCA</string>
-		</dict>
-		<key>BC777F7C-E67D-43B7-8C58-2EA81ADC8449</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>BC777F7C-E67D-43B7-8C58-2EA81ADC8449.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>carsNcows project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>carsNcows</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug carsNcows</string>
-			<key>timeStartedRecording</key>
-			<real>576352742.31980395</real>
-			<key>timeStoppedRecording</key>
-			<real>576352803.51614594</real>
-			<key>title</key>
-			<string>Debug carsNcows</string>
-			<key>uniqueIdentifier</key>
-			<string>BC777F7C-E67D-43B7-8C58-2EA81ADC8449</string>
 		</dict>
 	</dict>
 </dict>
